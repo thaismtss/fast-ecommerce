@@ -1,1 +1,1 @@
-web: cd app && gunicorn uvicorn main:app --host=0.0.0.0 --port=${PORT:-7777}
+web: cd app && uvicorn main:app --host=0.0.0.0 --port=7777
