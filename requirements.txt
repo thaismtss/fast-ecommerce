@@ -438,4 +438,5 @@ contextvars==2.4 \
     --hash=sha256:f38c908aaa59c14335eeea12abea5f443646216c4e29380d7bf34d2018e2c39e
 aiocontextvars==0.2.2 \
     --hash=sha256:885daf8261818767d8f7cbd79f9d4482d118f024b6586ef6e67980236a27bfa3
-immutables==0.15
+immutables==0.15 \
+    --hash=sha256:b8ad986f9b532c026f19585289384b0769188fcb68b37c7f0bd0df9092a6ca54
